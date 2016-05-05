@@ -1,4 +1,4 @@
-FirstSpring
+Spring Rest Starter
 ===========
 
 Fully operation Spring Rest Service!
